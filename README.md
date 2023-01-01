@@ -1,5 +1,6 @@
-![octa](https://user-images.githubusercontent.com/43653256/210185126-89807bbf-93a9-42b0-8259-6f6d6d9401fb.jpg)
-
+<img src="https://user-images.githubusercontent.com/43653256/210185126-89807bbf-93a9-42b0-8259-6f6d6d9401fb.jpg"
+     alt="octa"
+     style="float: left; margin-right: 10px; width:100%;" />
 ### Hey there, I'm R1ad 👋
 
 
