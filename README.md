@@ -1,7 +1,3 @@
-<img src="https://user-images.githubusercontent.com/43653256/210185126-89807bbf-93a9-42b0-8259-6f6d6d9401fb.jpg"
-     alt="octa"
-     style="width:100%; height:500px" />
-
 ### Hey there, I'm R1ad 👋
 
 
