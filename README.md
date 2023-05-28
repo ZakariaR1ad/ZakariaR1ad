@@ -6,20 +6,6 @@ I'm a final year student at the higher school of computer science 08-MAI-1945 an
 - I'm continuously trying to learn something new.
 - I’m looking to collaborate on machine learning projects.
 - Playing CTFs with [OctaC0re](https://ctftime.org/team/141485).
-- You can contact me at zr.mordi@gmail.com | r.mordi@esi-sba.dz or :
-
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/zakaria-mordi-335175169/">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-      <a href="https://www.facebook.com/profile.php?id=100013773361618">
-        <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-      </a>
-      <a href="https://twitter.com/RiadMordi">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-      </a>
-
-    </div>
 - You can also, challenge me on [lichess](https://lichess.org/@/zaki_ryad) or [chess.com](https://www.chess.com/member/zakaria-ryad) 😃
 
 - My favorite languages and frameworks :
@@ -50,3 +36,17 @@ I'm a final year student at the higher school of computer science 08-MAI-1945 an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZakariaR1ad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+- You can contact me at zr.mordi@gmail.com | r.mordi@esi-sba.dz or :
+
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/zakaria-mordi-335175169/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.facebook.com/profile.php?id=100013773361618">
+        <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
+      </a>
+      <a href="https://twitter.com/RiadMordi">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+
+    </div>
