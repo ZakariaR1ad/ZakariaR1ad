@@ -45,8 +45,12 @@ I'm a final year student at the higher school of computer science 08-MAI-1945 an
       <a href="https://www.facebook.com/profile.php?id=100013773361618">
         <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
       </a>
+      <a href="https://stackoverflow.com/users/11407779/zaki-ryad">
+        <img src="https://img.shields.io/badge/Stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
+      </a>
       <a href="https://twitter.com/RiadMordi">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
+      
 
     </div>
