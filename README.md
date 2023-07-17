@@ -1,7 +1,7 @@
 ### Hey there, I'm R1ad 👋
 
 
-I'm a final year student at the higher school of computer science 08-MAI-1945 and I'm interested by Cyber security and Machine Learning.
+I'm a Software engineer and I'm interested in Cyber security and Machine Learning.
 
 - I'm continuously trying to learn something new.
 - I’m looking to collaborate on machine learning projects.
