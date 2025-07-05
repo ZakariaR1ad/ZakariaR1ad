@@ -34,7 +34,11 @@ I'm a Software engineer and I'm interested in Cyber security and Machine Learnin
 <br/>
 <br/>
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ZakariaR1ad&theme=onedark)](https://github.com/ZakariaR1ad/github-profile-trophy)
 
+<br/>
+<br/>
+<br/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/zakaria-mordi-335175169/">
