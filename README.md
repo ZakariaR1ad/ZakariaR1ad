@@ -1,7 +1,7 @@
 ### Hey there, I'm R1ad 👋
 
 
-I'm a Software engineer and I'm interested in Cyber security and Machine Learning.
+I'm a PhD Student in XAI and I'm interested in AI, Cyber security and Cryptography.
 
 - I'm continuously trying to learn something new.
 - I’m looking to collaborate on machine learning projects.
