@@ -4,7 +4,6 @@
 I'm a PhD Student in XAI and I'm interested in AI, Cyber security and Cryptography.
 
 - I'm continuously trying to learn something new.
-- I’m looking to collaborate on machine learning projects.
 - Playing CTFs with [OctaC0re](https://ctftime.org/team/141485).
 - You can contact me at zr.mordi@gmail.com | r.mordi@esi-sba.dz
 - You can also, challenge me on [lichess](https://lichess.org/@/zaki_ryad) or [chess.com](https://www.chess.com/member/zakaria-ryad) 😃
